@@ -1,0 +1,15 @@
+D:\Dev\ExploreTopMan\ExploreTopMan\bin\Debug\ExploreTopMan.exe.config
+D:\Dev\ExploreTopMan\ExploreTopMan\obj\Debug\ExploreTopMan.csprojResolveAssemblyReference.cache
+D:\Dev\ExploreTopMan\ExploreTopMan\bin\Debug\ExploreTopMan.exe
+D:\Dev\ExploreTopMan\ExploreTopMan\bin\Debug\ExploreTopMan.pdb
+D:\Dev\ExploreTopMan\ExploreTopMan\bin\Debug\Microsoft.OData.Client.dll
+D:\Dev\ExploreTopMan\ExploreTopMan\bin\Debug\Tridion.TopologyManager.Client.dll
+D:\Dev\ExploreTopMan\ExploreTopMan\bin\Debug\Microsoft.OData.Edm.dll
+D:\Dev\ExploreTopMan\ExploreTopMan\bin\Debug\Microsoft.OData.Core.dll
+D:\Dev\ExploreTopMan\ExploreTopMan\bin\Debug\Microsoft.Spatial.dll
+D:\Dev\ExploreTopMan\ExploreTopMan\bin\Debug\Newtonsoft.Json.dll
+D:\Dev\ExploreTopMan\ExploreTopMan\obj\Debug\ExploreTopMan.exe
+D:\Dev\ExploreTopMan\ExploreTopMan\obj\Debug\ExploreTopMan.pdb
+D:\Dev\GitHub\Exploring-Topology-Manager\ExploreTopMan\ExploreTopMan\bin\Debug\ExploreTopMan.exe.config
+D:\Dev\GitHub\Exploring-Topology-Manager\ExploreTopMan\ExploreTopMan\obj\Debug\ExploreTopMan.exe
+D:\Dev\GitHub\Exploring-Topology-Manager\ExploreTopMan\ExploreTopMan\obj\Debug\ExploreTopMan.pdb
